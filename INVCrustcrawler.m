@@ -50,12 +50,13 @@ theta3_2    = -theta3_1;
 %% Solutions
 % Solution1
 Theta1_1_deg   = round(theta1_1*180/pi,5)
-%Theta1_2_deg   = round(theta1_2*180/pi,5)
 theta2_1_deg   = round(theta2_1*180/pi,5)
-%theta2_2_deg   = round(theta2_2*180/pi,5)
 theta3_1_deg   = round(theta3_1*180/pi,5)
-%theta3_2_deg   = round(theta3_2*180/pi,5)
 
+% Solution2 (Only same position not orientation)
+%Theta1_2_deg   = round(theta1_2*180/pi,5)
+%theta2_2_deg   = round(theta2_2*180/pi,5)
+%theta3_2_deg   = round(theta3_2*180/pi,5)
 
 
 
